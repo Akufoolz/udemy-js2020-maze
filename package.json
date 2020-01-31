@@ -1,0 +1,24 @@
+{
+  "name": "maze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akufoolz/udemy-js2020-maze.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akufoolz/udemy-js2020-maze/issues"
+  },
+  "homepage": "https://github.com/Akufoolz/udemy-js2020-maze#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
